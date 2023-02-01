@@ -1,0 +1,18 @@
+body {
+    background-color: lavender;
+}
+
+button:hover {
+    color: seagreen;
+}
+button.button {
+    color: red
+}
+
+
+.button {
+    background-color: lightsalmon;
+    border-style: ridge;
+    font-size: 15px;
+
+}
